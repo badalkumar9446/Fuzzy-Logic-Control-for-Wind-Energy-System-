@@ -1,1 +1,2 @@
 # Fuzzy-Logic-Control-for-Wind-Energy-System-
+Wind energy has garnered growing global attention due to the rising fuel costs and the demand for cleaner energy sources. The primary goal of most wind energy systems is to capture the maximum possible power from the wind. However, since wind conditions fluctuate constantly, the system controllers must be adjusted accordingly to track these changes. This paper aims to implement fuzzy logic control techniques to address the impact of wind speed variations on the parameters of wind turbines and their controllers.
